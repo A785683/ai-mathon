@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RetinaVision-AI: AI-Assisted Diabetic Retinopathy Screening & Microvasculature Decision Support
 
 **Hackathon Problem Statement**: Problem Statement 14 — *AI-Assisted Retinal Microvasculature Diagnostics and Diabetic Retinopathy Screening* (AI Manthan 2.0, Acropolis Institute of Technology and Research)  
@@ -100,3 +101,6 @@ RetinaVision-AI explicitly rejects fake diagnostics:
 - When unverified baseline weights are active, predictions are explicitly derived from quantified microvascular morphology under ICDR rules and clearly flagged in the UI.
 - All reports feature an explicit medical disclaimer confirming this is a clinical decision-support research prototype.
 
+=======
+# ai-mathon
+>>>>>>> 8f58450e6b7c87ae2fa825b046a25510a80d686f
