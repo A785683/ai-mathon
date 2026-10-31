@@ -1,0 +1,39 @@
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Database & Runtime Uploads
+*.db
+*.sqlite3
+backend/data/*.db
+backend/uploads/*_raw.jpg
+backend/uploads/*_prep.jpg
+backend/uploads/*_gradcam.jpg
+backend/uploads/*_mask.png
+backend/reports/*.pdf
+
+# Upstream Clone
+retina_care_ai_upstream/
+
+# Large Model Weights (>50MB resnet50 backup)
+backend/data/weights/resnet50_dr.pth
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
